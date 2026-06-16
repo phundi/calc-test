@@ -1,0 +1,8 @@
+{
+  "name": "calculator-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx http-server ./ -p 8080"
+  }
+}
